@@ -6,6 +6,8 @@
 //  Copyright (c) 2015 Donald Burr. All rights reserved.
 //
 
+// http://www.raywenderlich.com/99386/create-cocoapod-swift
+
 #import <UIKit/UIKit.h>
 
 //! Project version number for RWPickFlavor.
